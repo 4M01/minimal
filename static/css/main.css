@@ -105,6 +105,5 @@ img {
 }
 
 img+em {
-    background-color: lightgray;
-    text-align: center !important;
+    background-color: gainsboro
 }
